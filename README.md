@@ -14,9 +14,9 @@ Hi, I'm Jerbaloot, *you can also call me Jeremy*.
 
 ### Seriously...
 
-💬 ***I write up my projects on github and <a href="https://twitter.com/Jerbaloot">my twitter***</a> 💬
-
-
+💬 ***I write up my projects on github and <a href="https://twitter.com/Jerbaloot">my Twitter***</a> 💬<br>
+🎥 ***I WILL make videos and post them on <a href="https://youtube.com/@Jerbaloot">my YouTube***</a> 🎥<br>
+🎨 ***I also sometimes make 2D art and I post it on <a href="https://instagram.com/Jerbaloot">my Instagram***</a>🎨
 
 ## Projects
 
@@ -25,7 +25,6 @@ Hi, I'm Jerbaloot, *you can also call me Jeremy*.
 -->
 | <a href="https://github.com/Jerbaloot/ManualSkates"><img style="max-width: 25px;" src="https://github.com/Jerbaloot/ManualSkates/blob/main/icon_small.png"><br>ManualSkates</a> |
 | -------- |
-
 
 <!--
 **Jerbaloot/Jerbaloot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
