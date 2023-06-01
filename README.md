@@ -1,15 +1,30 @@
 # Jerbaloot (Jeremy)
-Hi, I'm Jerbaloot, *you can also call me Jeremy*.
+Hi, I'm Jerbaloot, *you can also call me Jeremy*. 
 
-I enjoy trying out lots of ideas and then figuring out why they're actually not very good ideas. I like to write up my conclusions so check out the Read-Mes for the repositories if you want to see my thoughts and conclusions.
+### **What do I do exactly?**
+
+   ⚡ ***Create Simulations*** ⚡<br>
+   🤔 ***Encounter Bugs*** 🤔<br>
+   💀 ***Quit!*** 💀 <br>
+
+<!--
+1. Trying out programming ideas and then figuring out why they're actually not very good ideas. 
+2. Write up my conclusions so check out the Read-Mes for the repositories if you want to see my thoughts and conclusions.
+-->
+
+### Seriously...
+
+💬 ***I write up my projects on github and <a href="https://twitter.com/Jerbaloot">my twitter***</a> 💬
+
+
 
 ## Projects
 
+<!--
 ### Godot
-| <a href="https://github.com/Jerbaloot/ManualSkates"><img style="max-width: 25px;" src="https://github.com/Jerbaloot/ManualSkates/blob/main/icon.png"><br>ManualSkates</a> |
+-->
+| <a href="https://github.com/Jerbaloot/ManualSkates"><img style="max-width: 25px;" src="https://github.com/Jerbaloot/ManualSkates/blob/main/icon_small.png"><br>ManualSkates</a> |
 | -------- |
-
-### HTML
 
 
 <!--
