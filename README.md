@@ -5,7 +5,7 @@ Hi, I'm Jerbaloot, *you can also call me Jeremy*.
 
    ⚡ ***Create Simulations*** ⚡<br>
    🤔 ***Encounter Bugs*** 🤔<br>
-   💀 ***Quit!*** 💀 <br>
+   💀 ***Give Up!*** 💀 <br>
 
 <!--
 1. Trying out programming ideas and then figuring out why they're actually not very good ideas. 
