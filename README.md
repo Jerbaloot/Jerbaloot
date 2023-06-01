@@ -6,7 +6,7 @@ I enjoy trying out lots of ideas and then figuring out why they're actually not 
 ## Projects
 
 ### Godot
-| <a href="https://github.com/Jerbaloot/ManualSkates"><img style="max-width: 25px;" src="https://i5.walmartimages.com/asr/1a939b24-1296-49ec-86f4-0ced1971a870_1.a02fa62043c687f3a47bccb764caba11.jpeg"><br>ManualSkates</a> |
+| <a href="https://github.com/Jerbaloot/ManualSkates"><img style="max-width: 25px;" src="https://github.com/Jerbaloot/ManualSkates/blob/main/icon.png"><br>ManualSkates</a> |
 | -------- |
 
 ### HTML
