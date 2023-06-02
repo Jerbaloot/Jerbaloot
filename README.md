@@ -3,7 +3,7 @@ Hi, I'm Jerbaloot, *you can also call me Jeremy*.
 
 ### **What do I do exactly?**
 
-   ⚡ ***Create Simulations*** ⚡<br>
+   ⚡ ***Create Simulations/Tools/Games*** ⚡<br>
    🤔 ***Encounter Bugs*** 🤔<br>
    💀 ***Give Up!*** 💀 <br>
 
