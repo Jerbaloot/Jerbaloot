@@ -1,5 +1,6 @@
-# Jerbaloot (Jem)
-Hi, I'm Jerbaloot, *you can also call me Jem*. 
+# Jerbaloot (Jem) _they/them_
+Hi, I'm Jerbaloot, *you can also call me Jem*.
+
 
 ### **What do I do exactly?**
 
@@ -7,6 +8,8 @@ Hi, I'm Jerbaloot, *you can also call me Jem*.
    🤔 ***Encounter Bugs*** 🤔<br>
    💀 ***Give Up!*** 💀 <br>
 
+
+Check out my website at https://Jerbaloot.com
 <!--
 1. Trying out programming ideas and then figuring out why they're actually not very good ideas. 
 2. Write up my conclusions so check out the Read-Mes for the repositories if you want to see my thoughts and conclusions.
@@ -18,7 +21,7 @@ Hi, I'm Jerbaloot, *you can also call me Jem*.
 🎨 ***I also sometimes make 2D art and I post it on <a href="https://instagram.com/Jerbaloot">my Instagram***</a>🎨
 -->
 
-## Projects
+## Stuff I've Made Public
 
 <!--
 ### Godot
