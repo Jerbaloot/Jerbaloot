@@ -12,11 +12,11 @@ Hi, I'm Jerbaloot, *you can also call me Jem*.
 2. Write up my conclusions so check out the Read-Mes for the repositories if you want to see my thoughts and conclusions.
 -->
 
-### Seriously...
-
+<!--### Seriously...
 💬 ***I write up my projects on github and <a href="https://twitter.com/Jerbaloot">my Twitter***</a> 💬<br>
 🎥 ***I WILL make videos and post them on <a href="https://youtube.com/@Jerbaloot">my YouTube***</a> 🎥<br>
 🎨 ***I also sometimes make 2D art and I post it on <a href="https://instagram.com/Jerbaloot">my Instagram***</a>🎨
+-->
 
 ## Projects
 
