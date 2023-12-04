@@ -1,9 +1,9 @@
-# Jerbaloot (Jeremy)
-Hi, I'm Jerbaloot, *you can also call me Jeremy*. 
+# Jerbaloot (Jem)
+Hi, I'm Jerbaloot, *you can also call me Jem*. 
 
 ### **What do I do exactly?**
 
-   ⚡ ***Create Simulations/Tools/Games*** ⚡<br>
+   ⚡ ***Program Interactives*** ⚡<br>
    🤔 ***Encounter Bugs*** 🤔<br>
    💀 ***Give Up!*** 💀 <br>
 
